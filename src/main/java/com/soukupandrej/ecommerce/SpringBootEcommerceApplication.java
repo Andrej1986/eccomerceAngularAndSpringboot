@@ -63,4 +63,7 @@ public class SpringBootEcommerceApplication {
         jmsTemplate.convertAndSend("mailbox2", new Email("info@example.com", "Hello"));
     }
 
+    //testovacia zmena branch1 commit1
+    //testovacia zmena2 branch1 commit2
+    //testovacia zmena branch2 commit1
 }
