@@ -70,4 +70,8 @@ public class SpringBootEcommerceApplication {
 
 
     //zmena3 branch2
+    //testovacia zmena4 branch1
+
+
+    //zmena5 branch1
 }
