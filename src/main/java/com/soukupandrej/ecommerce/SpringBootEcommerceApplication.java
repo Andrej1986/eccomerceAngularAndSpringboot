@@ -62,11 +62,4 @@ public class SpringBootEcommerceApplication {
         System.out.println("Sending an email message.");
         jmsTemplate.convertAndSend("mailbox2", new Email("info@example.com", "Hello"));
     }
-
-    //master
-    //master2
-    //branch2
-    //branch22
-    //branch23
-
 }
