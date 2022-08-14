@@ -67,4 +67,7 @@ public class SpringBootEcommerceApplication {
     //testovacia zmena2 branch1 commit2
     //testovacia zmena branch2 commit1
     //testovacia zmena2 branch2
+
+
+    //zmena3 branch2
 }
