@@ -62,10 +62,4 @@ public class SpringBootEcommerceApplication {
         System.out.println("Sending an email message.");
         jmsTemplate.convertAndSend("mailbox2", new Email("info@example.com", "Hello"));
     }
-
-    //totally last update branch2
-
-    //totally last commit branch1
-    //totally last commit branch1 2
-    //totally last commit branch1 3
 }
